@@ -1,3 +1,7 @@
 test branch0
 line2
+<<<<<<< HEAD
 line3
+=======
+line3 change from test branch 
+>>>>>>> test
